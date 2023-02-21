@@ -9,6 +9,8 @@ public class Gravitacija{
 
         double v = sc.nextDouble();
 
+        // Izpiše nadmorsko višino in pospešek
+        System.out.println(v);
         System.out.println(izracunajG(v));
 
     }
